@@ -19,4 +19,7 @@ alias ln='ln -i'
 alias df='df -H'
 alias du='du -ch'
 
+alias mkdir='mkdir -pv'
 
+# install colordiff via homebrew before this works
+alias diff='colordiff'
